@@ -1,0 +1,7 @@
+customtkinter-pyinstaller     # نسخة مهيأة للعمل مع PyInstaller :contentReference[oaicite:2]{index=2}
+CTkToolTip
+psutil
+pystray
+Pillow
+winotify
+pywin32            # يوفر win32com و win32api
